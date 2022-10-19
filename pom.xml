@@ -25,7 +25,7 @@
         <junit.version>4.12</junit.version>
         <google.guava.version>14.0.1</google.guava.version>
         <org.apache.maven.plugins.version>3.8.0</org.apache.maven.plugins.version>
-        <jackson.databind.version>2.6.5</jackson.databind.version>
+        <jackson.databind.version>2.13.4.1</jackson.databind.version>
         <spark.version>2.3.3</spark.version>
 
 
